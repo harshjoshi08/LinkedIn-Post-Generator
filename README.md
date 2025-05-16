@@ -27,7 +27,7 @@ Here's what the Streamlit user interface looks like:
 ## System Architecture
 Here's a visual representation of how the system works:
 
-![System Architechture](path_or_url_to_image)
+![System Architechture]([(https://github.com/harshjoshi08/LinkedIn-Post-Generator/blob/main/System%20Architecture.png))
 
 
 
