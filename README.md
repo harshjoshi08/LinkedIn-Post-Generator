@@ -20,7 +20,7 @@ The tool analyzes an influencer's existing LinkedIn posts to generate new conten
 
 ### System Architecture
 
-![System Architecture](images/system-architecture.png) <!-- Replace with your actual path -->
+![System Architecture](https://github.com/harshjoshi08/LinkedIn-Post-Generator/blob/main/System%20Architecture.png)
 
 ### Technical Architecture
 
