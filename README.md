@@ -12,6 +12,18 @@ The tool analyzes an influencer's existing LinkedIn posts to generate new conten
 ---
 ## 📸 UI Preview
 
-![UI Screenshot](images/ui-preview.png) <!-- Replace with your actual path -->
+![UI Screenshot](https://github.com/harshjoshi08/LinkedIn-Post-Generator/blob/main/UI%20Preview.png) 
+
+---
+
+## 🧠 Project Architecture
+
+### System Architecture
+
+![System Architecture](images/system-architecture.png) <!-- Replace with your actual path -->
+
+### Technical Architecture
+
+![Technical Architecture](images/technical-architecture.png) <!-- Replace with your actual path -->
 
 ---
